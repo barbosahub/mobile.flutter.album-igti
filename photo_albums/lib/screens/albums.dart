@@ -50,8 +50,8 @@ class _AlbumsState extends State<Albums> {
                             child: Column(
                               children: [
                                 ListTile(
-                                  title: Text('${snapshot.data[index].title}', style: AppTextStyles.titleBold,),
-                                  subtitle: Text('id: ${snapshot.data[index].id} | userid: ${snapshot.data[index].userId}', style: AppTextStyles.title),
+                                  title: Text('${snapshot.data[index].userId} - ${snapshot.data[index].title}', style: AppTextStyles.titleBold,),
+                                  subtitle: Text('${snapshot.data[index].id}', style: AppTextStyles.title),
                                 )
                               ],
                             ),
