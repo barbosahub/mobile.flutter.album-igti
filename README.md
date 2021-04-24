@@ -6,7 +6,7 @@ Objetivo do projeto: Consumir uma api de album de fotos
 
 
 <p align="left">
-  <img src="https://github.com/barbosahub/mobile.development/mobile.flutter.album-igti/photo_albums/lib/core/gif.gif" width="200" alt="Gif de consumo api com Flutter" style=" border: 5px solid #555">
+  <img src="https://github.com/barbosahub/mobile.flutter.album-igti/blob/main/photo_albums/lib/core/gif.gif" width="200" alt="Gif de consumo api com Flutter" style=" border: 5px solid #555">
 </p>
 
 ## Sobre
